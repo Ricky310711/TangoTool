@@ -1,0 +1,3 @@
+#!/system/bin/sh
+touch /data/local/tmp/test.txt
+echo "Ricky Divjakovski is the best!" >> /data/local/tmp/test.txt
